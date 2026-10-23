@@ -2,13 +2,17 @@
 
 Hi, I'm Viktor. I run WPSubstrata.
 
-I set up WordPress sites on private cloud servers that the client owns. Not shared hosting, not a managed platform you can't leave. Your own server, in your own account, set up properly and fast.
+**Substrata** means the layers underneath, the foundation everything else stands on. For a WordPress site, that's the server: the part nobody sees, but the part that decides how fast, stable and secure the site really is.
 
-Most of my work happens on Hetzner Cloud with CloudPanel. Over time I wrote scripts to make the boring parts repeatable: provisioning, hardening, migrating sites between servers. This org is where I'm putting the ones worth sharing.
+That's what I work on. I set up WordPress sites on private cloud servers that the client owns. Not shared hosting, not a managed platform you can't leave. Your own server, in your own account, set up properly and fast.
 
-## What's here
+Most of my work happens on Hetzner Cloud with CloudPanel. Over time I wrote scripts to make the boring parts repeatable: provisioning, hardening, migrating sites between servers.
 
-- **Migrator**: moves all WordPress sites from one CloudPanel server to another. Free, MIT license. *(coming soon)*
+## What's coming
+
+I'm preparing the files to publish here, starting with:
+
+- **Migrator**: moves all WordPress sites from one CloudPanel server to another. Free, MIT license.
 
 More tools will follow when they're ready. I'd rather publish fewer things that actually work.
 
